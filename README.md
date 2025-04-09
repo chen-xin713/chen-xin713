@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm 尘心</h1>
 <h3 align="center">A GIS student at Jiangxi University of Science and Technology.</h3>
 
-- 📫 How to reach me **370906245@qq.com**
 
-<h3 align="left">Connect with me:**370906245@qq.com**</h3>
+<h3 align="left">Connect with me:370906245@qq.com</h3>
 <p align="left">
 </p>
 
