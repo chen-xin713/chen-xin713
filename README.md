@@ -1,8 +1,7 @@
-<p align="center">
-  <img width =="40" src ="https://github.com/chen-xin713/chen-xin713/blob/90707cf9e6c026fd18ef028a2f68cdd1d76283ce/%E5%A4%B4%E5%83%8F.jpg"/>
-</p>
 <h1 align="center">Hi 👋, I'm 尘心</h1>
-<h3 align="center">A university student majoring in Geographic Information Science</h3>
+<h3 align="center">A GIS student at Jiangxi University of Science and Technology.</h3>
+
+- 📫 How to reach me **370906245@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
