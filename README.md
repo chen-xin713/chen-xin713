@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **370906245@qq.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**370906245@qq.com**</h3>
 <p align="left">
 </p>
 
