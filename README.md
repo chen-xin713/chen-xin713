@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm 尘心</h1>
 <h3 align="center">A GIS student at Jiangxi University of Science and Technology.</h3>
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-xin713&size_weight=0.5&count_weight=0.5&langs_count=8)
+</p>
 
 
 <h3 align="left">Connect with me:370906245@qq.com</h3>
