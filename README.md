@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
- **370906245@qq.com**
+📧  **370906245@qq.com**
  
 </p>
 
