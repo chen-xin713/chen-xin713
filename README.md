@@ -19,4 +19,4 @@
 </p>
 
 <h3 align="left">GIS Tools:</h3>
-<p align="left"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/?modal=icon&q=arcgis" width="40" height="40"/>
+<p align="left"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/arcgis-color.svg" width="40" height="40"/></a><a href ="https://www.qgis.org/" target="_blank" rel="noreferrer"><img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/qgis-color.svg" width="40" height="40"/></a>
