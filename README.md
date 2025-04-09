@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/chen-xin713/chen-xin713/blob/b744900b6c6b0a2b4b70e8be7e7959cfd037c727/%E5%A4%B4%E5%83%8F.jpg" width="40" height="40"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm 尘心</h1>
 <h3 align="center">A GIS student at Jiangxi University of Science and Technology.</h3>
 
