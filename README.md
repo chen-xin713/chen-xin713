@@ -1,5 +1,5 @@
 <p align="center">
-  <img width =="140" src ="https://github.com/chen-xin713/chen-xin713/blob/90707cf9e6c026fd18ef028a2f68cdd1d76283ce/%E5%A4%B4%E5%83%8F.jpg"/>
+  <img width =="140px" src ="https://github.com/chen-xin713/chen-xin713/blob/90707cf9e6c026fd18ef028a2f68cdd1d76283ce/%E5%A4%B4%E5%83%8F.jpg"/>
 </p>
 <h1 align="center">Hi 👋, I'm 尘心</h1>
 <h3 align="center">A university student majoring in Geographic Information Science</h3>
