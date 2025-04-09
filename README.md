@@ -10,8 +10,9 @@
 
 
 
-<h3 align="left">Connect with me:370906245@qq.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+ <h4>370906245@qq.com </h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +20,4 @@
 </p>
 
 <h3 align="left">GIS Tools:</h3>
-<p align="left"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/arcgis-color.svg" width="40" height="40"/></a><a href ="https://www.qgis.org/" target="_blank" rel="noreferrer"><img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/qgis-color.svg" width="40" height="40"/></a>
+<p align="left"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/arcgis-color.svg" width="40" height="40"/></a> <a href ="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/chen-xin713/chen-xin713/blob/bb689bb115c8dc4747fdf051590ac4e15eeebada/qgis-color.svg" width="40" height="40"/></a> <a href="http://www.supermap.com" target="_blank" rel="noreferrer"><img src="https://github.com/chen-xin713/chen-xin713/blob/362b78524fa41c1942ed8dd769b79ec9f402466c/supermap.png" height="40"/></a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/chen-xin713/chen-xin713/blob/362b78524fa41c1942ed8dd769b79ec9f402466c/googleearthengine-color.svg" width="40" height="40"></a>
